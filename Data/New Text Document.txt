@@ -1,0 +1,5 @@
+[Flat File Source [2]] Error: The "Flat File Source.Outputs[Flat File Source Output].
+Columns[review_comment_message]" failed because truncation occurred, 
+and the truncation row disposition on "Flat File Source.Outputs[Flat File Source Output].C
+olumns[review_comment_message]" specifies failure on truncation.
+ A truncation error occurred on the specified object of the specified component.
