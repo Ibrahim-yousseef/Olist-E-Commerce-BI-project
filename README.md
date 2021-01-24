@@ -4,14 +4,18 @@ In this modern world we are overloaded with data and this data provides us with 
 We chose to analyze olist e-commerce dataset Olist was founded in 2015 and is based in Curitiba, Brazil..
 olist is Operator of an online e-commerce site aggregation platform designed to facilitate direct sales on e-commerce sites. The company's platform connects entrepreneurs with major online retailers and allows shopkeepers to advertise and sell in the marketplaces without complication, enabling retail companies to reach out to the international marketplaces, improve the shopping experience and modify their purchasing behavior.
 
+### project steps & Tools used:  
 
-Data Gathering 
-ERD design 
-DB creation 
-Integration 
-Loading data in DWH
-SSAS
-SSRS
-Questioning 
-Power BI
-Deployment
+* Data Gathering  
+* ERD design  
+* DB creation  
+* Integration  
+* Loading data in DWH  
+* SSAS  
+* SSRS  
+* Questioning  
+* Power BI  
+* Deployment  
+
+### DEMO video:  
+https://www.youtube.com/watch?v=7YmKXAz3HNw
